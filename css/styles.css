@@ -395,4 +395,21 @@ table {
 
 .yhteystiedot a {
     font-size: 25px;
+    text-decoration: none;
+    padding: 10px;
+}
+
+.yhteystiedot ul {
+    display: flex;
+    justify-content: center;
+}
+
+.yhetystiedot li {
+    padding: 10px;
+    margin: 10px;
+}
+
+.yhteystiedot img {
+    width: 40px;
+    margin:10px;
 }
